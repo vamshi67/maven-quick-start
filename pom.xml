@@ -6,5 +6,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>clinic.programming</groupId>
   <artifactId>maven-quick-start</artifactId>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
   <version>1.0</version>
 </project>
